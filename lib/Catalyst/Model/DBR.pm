@@ -58,11 +58,7 @@ sub AUTOLOAD {
       return $object;
 }
 
-=item $self->connect
-
-connects to the database.
-
-=cut
+=pod
 
 =head1 NAME
 
@@ -77,7 +73,7 @@ This is the C<DBR> model class.
 
 =head1 METHODS
 
-=over 4
+=over 1
 
 =item new
 

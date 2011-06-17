@@ -64,6 +64,8 @@ __PACKAGE__->config(
     autoload_ok   => 1, # Only kicks in if schema is specified
 );
 
+=pod
+
 =head1 NAME
 
 [% class %] - DBI Model Class
