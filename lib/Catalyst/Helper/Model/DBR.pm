@@ -1,7 +1,6 @@
 package Catalyst::Helper::Model::DBR;
 
-our $VERSION = '0.01';
-
+our $VERSION = '-DBR-VERSION-TAG-';
 
 sub mk_compclass {
     my ( $self, $helper, $conf, $schema ) = @_;

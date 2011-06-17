@@ -11,7 +11,7 @@ has autoload_ok => ( is => 'rw' );
 use DBR;
 use DBR::Util::Logger;
 
-our $VERSION = '0.01';
+our $VERSION = '-DBR-VERSION-TAG-';
 our $AUTOLOAD;
 
 sub BUILD{
